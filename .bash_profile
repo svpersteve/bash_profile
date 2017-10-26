@@ -13,6 +13,8 @@ alias ga='git add .'
 alias gl='git log'
 alias glp='git log -p'
 alias grm='git rebase -i master'
+alias grim='git rebase -i master'
+alias gcon='git rebase --continue'
 alias gb='git branch'
 alias gbd='git branch -d'
 
