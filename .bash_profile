@@ -17,6 +17,7 @@ alias grim='git rebase -i master'
 alias gcon='git rebase --continue'
 alias gb='git branch'
 alias gbd='git branch -d'
+alias rserver='bundle exec spring rails s'
 
 alias rsp='echo "IP Address: $(ipconfig getifaddr en0)"; rails s --binding=0.0.0.0'
 alias rst='lt --port 3000 --subdomain sbfuturelearn'
